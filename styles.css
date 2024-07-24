@@ -1,0 +1,65 @@
+body{
+    background-color: #F2F5F9;
+}
+
+.card{
+    width: 29rem;
+    margin: 7.75rem;
+    background-color: #FFFFFF;
+}
+
+.imagenes{
+    position: relative;
+    display: inline-block;
+}
+
+.imagen_mujer{
+    width:100%;
+    height: 100%;
+    border: none;
+    display: block;
+}
+
+.separador{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.primera_parte, .pie{
+    padding: 0 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.titulo{
+    font: 600 1.5rem/1.5 Poppins;
+    margin-top: 0.75rem;
+}
+
+.texto{
+    font: 1.1rem/1.5 Lato;
+    color: #677489;
+}
+
+.pie{
+    padding-top: 1.5rem;
+    border-top: 2px #F2F5F9 solid;
+}
+
+.foto_avatar{
+    width: auto;
+    height: 3rem;
+    border: 4px #F2F5F9 solid;
+    margin-right: 0.75rem;
+}
+
+.nombre{
+    font: 700 1.1rem/1.5 Lato;
+}
+
+.puesto{
+    font:600 0.80rem/1.5 Lato;
+    color: #677489;
+
+}
+
